@@ -43,6 +43,7 @@ or different input methods.
 Currently we will check:
 
 - Keyboard navigation
+- Unicode support
 - Screen reader support
 - Touch compatibility
 - Gamepad compatibility
