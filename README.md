@@ -35,6 +35,9 @@ otherwise.
 All measurements will be made on each supported system separately. So we will
 note if some features only work on specific platforms.
 
+See [the tasks folder](./tasks/) to see which tasks need to implement in each
+repo.
+
 ## Accessibility
 
 We will check how well the application can be used with assistive technologies
